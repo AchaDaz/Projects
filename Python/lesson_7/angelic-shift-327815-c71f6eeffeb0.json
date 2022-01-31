@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "angelic-shift-327815",
+  "private_key_id": "c71f6eeffeb04a538de162ee924e2e371ca531f7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDVbLZAggW+vlNg\ndyltzJG5e/3t0JsfhgkStxmjv3KMLKtOocIRj+xEwbtjPQYz6CP0qzjzsjCWWxvV\n8vCfFU+WtdqBH5Brtk88+oQkT3vocIZVqO1tKvosso3ZMmWAuN10jnhoHKyFODzH\nZ/JcHNHUDJAppkJCILlbhVU9EHEojKiiFMKvt/h477ahTVRswvaEzUhsVj0B2mTO\nOO6zs5ZndImcT4v8MHfw/T5uMukfdyxOcYhye4Pveimw9ArLGlaTDDbYeaYp+8Br\nSH8yBoEUBGrPLCNqcbdsFVr+dD4eDdUyeFlY6CxKKzib+OOEyOPrCWI/Qf0j8sm5\nPx7YE3aPAgMBAAECggEAIgatfdZc9R6h61jELaG2P/SxNMeT27BCZQ31FAKzT/7V\nJvmqF6Oy/vlGF1nE0eS6Ssk7kLrBfU80PmV3kF1U7Ym7tudh3pJXyriD9cgIULQT\n7rc6dzOpZBPpgo3C2gVfJTSLpMmhhbHEGuSLIr1jhKOmHkXH/YP7GUjGILCs4dJU\nhwIfCVfji/zndvN+znWfN97a/64uiuDsBt0CJh/ApG/HSr/i6sSj2NngcpareWdz\nC8N4uZWvQnx1Y3O4sn0HTk1U3/cFzgX7KNk7YxfAL3HskT6aUdABUxSh27Gg6if0\nQKQucC7oBrth5faOEsKSkeehlmGJOg8mjZPd/NG5LQKBgQDwJ87LIKdaJcLuXNkk\nzh/oW/2INk9GZiTlc/zF+g9+IDMpRCIB0TKuQC4w5IsyVfxGsDPmHHLBgmEc2LVV\n3DNLBOPWZ0TMWp5f3KSvUoAOyqtlrb78q6JEU8/Og8JBAkdhSu7c5J94z7S/7C6a\nC1t2++NXzz0uefPnGpOk77jRWwKBgQDjgWyK/seVUuHSgAqkH6Y8cTXmMvwRLaBU\nsGRwSinNnmhmqkCV06GWWUkJYrhP3kVphucrgRW8lBYHAN14bCvWS0QrPjW567F8\nLJOo9RhU4V/hSyXKTf/MmGa/0Dqg+i/4Fe56U3GskM9e3cSHQildlbPKzs+DwwOp\nAxby474h3QKBgHoFj/Hvtnh8ZU4diQtFXDsAupJCHgeEEM0xIMcq5kJMdBJMlwbb\nV2foHlAjX4KE4/i6wLPz0m72Iwe4KHLmvn0oj+c5c2BtzrigcGDQh1Z8rZetLzRM\ntNcIyraAhevoD4KkwzcjRs/ooUs+4vLMQH31QC82kjySJFZRT6FnWD2vAoGAbNwe\nEvhMieAJ3E6WSOg4BA3ry4Wz5YhegoeQ18Y08IWO0SlAFDEazbVVZF9PcDAcKJ17\nee6fdweo7pr0Xk3sP/Lt4H84+AiWeaNe2GbGyL66wTPTFlVyQ/TcnYXGuAZe86eS\n4AeTig4UnAEjq9D1uCkMycthslubIcEvtvNQpCUCgYBzv5+cH7Q9SHoDnN3E1C4S\nbf1Pw8HJINjbvkttgmoNyArqaY3ECi7BWbug8WCWRFOXVlmhqENgh4g+bb/T4Xnh\nU42C1t7mJl0ccjtJQZr14pCGMy60Bw/UFSLZZHhFuB+VFDWISqzPt3UJH/wAkz0K\nitZnIXGMXl5cLQXLFrSjmA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tester@angelic-shift-327815.iam.gserviceaccount.com",
+  "client_id": "116352669294846922240",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tester%40angelic-shift-327815.iam.gserviceaccount.com"
+}
